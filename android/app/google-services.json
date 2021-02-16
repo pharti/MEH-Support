@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296550054766",
+    "project_id": "meh-support-d24ca",
+    "storage_bucket": "meh-support-d24ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296550054766:android:65547e9a3c2ad5a879df7f",
+        "android_client_info": {
+          "package_name": "com.meh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296550054766-61al8jg4bepka2gs3a13jkruj66fpfc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLDFzgHKdnsZ4L6J_wWThQRdj4VfcPZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296550054766-61al8jg4bepka2gs3a13jkruj66fpfc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

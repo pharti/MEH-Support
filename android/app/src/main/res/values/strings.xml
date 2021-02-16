@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MEH Support</string>
+    <string name="facebook_app_id">2896833570566660</string>
+    <string name="fb_login_protocol_scheme">fb2896833570566660</string>
+    <string name="defaultChannel" translatable="false">defaultChannel</string>
+
+</resources>
